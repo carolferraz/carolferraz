@@ -11,7 +11,7 @@
 
 <div style="display: inline-block" aligh="center">
 <img align="center" height="200rem" src="https://github-readme-stats.vercel.app/api?username=carolferraz&show_icons=true&theme=onedark">
-<img align="center" height="200rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolferraz&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats">
+<img align="center" height="200rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolferraz&theme=onedark&layout=compact">
 </div>
 
 
