@@ -19,22 +19,26 @@
 <br><br><br>
 ## 🛠 &nbsp;Tech Stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-EEEFF0?style=flat&logo=javascript)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-EEEFF0?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-EEEFF0?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-EEEFF0?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-EEEFF0?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-EEEFF0?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E))&nbsp;
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 ## 📲 Contact
 
 
 <a href="https://www.linkedin.com/in/caroline-fferraz/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
 <a href="mailto:fferraz.carol@gmail.com" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Gmail-EEEFF0?style=flat&logo=gmail"/>
+  <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 <a href="https://www.instagram.com/umafigueiranomundo/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Instagram-e56969?style=flat&logo=instagram"/>
+  <img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
 
 <!--
 **carolferraz/carolferraz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
