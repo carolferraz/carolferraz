@@ -3,8 +3,8 @@
 <a href="https://github.com/carolferraz">
 <img align="right" height="150rem" src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif"></a>
 
-- 👩🏽‍💻 I'm a studying to become a <b>Full Stack</b>  web developer.
-- 🌱 I’m currently learning C#.
+- 👩🏽‍💻 I'm a <b>Full Stack</b>  web developer.
+- 🌱 I’m currently learning advanced C#.
 - 🤝🏽 I’m looking to a opportunity to collaborate with great teams on projects that I can put my full potencial.
 - 😄 Pronouns: she/her.
 <br><br><br>
